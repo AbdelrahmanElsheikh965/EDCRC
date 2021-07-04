@@ -1,0 +1,6 @@
+Users Accounts://
+	1)Doctors => register, then type his patient's { name, seq, result, age } and upload his sequence (seq) finally write recommendations (result) ..  
+	2)Patients => register, then view (results) what should be done according to their health state with doctor info.
+*features://
+	1)patient can chat to doctor when signed in to inquiry his status.
+	2)patient can find a QR code contains all data/reports in his profile to scan and print anywhere. 
